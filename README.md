@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalpa Dahal</h1>
-<h3 align="center">A passionate Fullstacl developer from Kathmandu, Nepal</h3>
+<h3 align="center">A passionate Fullstack developer from Kathmandu, Nepal</h3>
 
 - 🔭 I’m currently working on **a travel website project**
 
